@@ -1,39 +1,51 @@
-# Hi, I'm Louise Pessoa!👾 
+<link href="style.css" rel="stylesheet"></link>
 
-- 💡 I’m studying at <c class="cesar" style="color: rgb(244, 117, 70);" href="https://www.cesar.school">Cesar School</c>
-
-- 🌱 I’m a first-year student of Computer Science (Bachelor's Degree)
-- 👀 I’m looking forward to collaborate on **creative, inovative and impactful** projects
-- 📫 Contact me: <louisepessoaamds@gmail.com>
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: 
-[CESAR School](https://www.cesar.school)
+- ⚡ Fun fact:
+`abcd`
+
+<a> tag = hipertext
+<b> tag = bold
+<div> tag = new section
+<code> tag = block of code
 -->
 
-<link href="style.css" rel="stylesheet"></link>
-<center><a class="button" href="https://www.linkedin.com/in/louise-pessoa-">LinkedIn</a></center>
+# Hi, I'm Louise Pessoa!👾 
 
-## Currently learning
-- Python <img src="pythonicon.png" alt="Python icon" width="15">
-- JavaScript <img src="jsicon.png" alt="JavaScript icon" width="15">
-- HTML <img src="htmlicon.png" alt="HTML icon" width="15">
-- CSS <img src="cssicon.png" alt="CSS icon" width="15">
-- C++ <img src="c++icon.png" alt="C++ icon" width="15">
-- Markdown <img src="pythonicon.png" alt="Markdown icon" width="15">
+- 💡 Studying **Computer Science** at <a class="cesar" style="color: rgb(244, 117, 70);" href="https://www.cesar.school">Cesar School</a>
+- 🌱 First-year Bachelor'student, passionate about problem-solving, technology and management
+- 👀 Looking forward to collaborating on **creative, innovative and impactful** projects
+- 📫 Contact me: <louisepessoaamds@gmail.com>
 
-#### Platforms I use to study
+<div align=center><a href="https://www.linkedin.com/in/louise-pessoa-">
+<img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" width="80" height="80">
+</a></div>
+
+## Currently learning 📚
+- Python <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python icon" width="15">
+- JavaScript <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript icon" width="15">
+- HTML and CSS <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png" alt="HTML icon" width="15"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS icon" width="15">
+- C++ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ icon" width="15">
+- Markdown <img src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" alt="Markdown icon" width="15">
+
+### Platforms I use to study
 - Websites:
     - StackOverflow
     - W3Schools
     - beecrowd
 
 - Editors:
-    - Visual Studio Code
-    - Arduino IDE
+    - VSCode
+    - ArduinoIDE
 
-## Miscellaneous interests
+## Interests
+- Cybersecurity🔐
+- Machine learning🤖
+- Game development🎮
+
+### *Extra miscellaneous interests
 - Movies🎬
 - Volleyball🏐
 - Hand crafts👐
