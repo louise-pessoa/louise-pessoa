@@ -1,18 +1,17 @@
 <link href="style.css" rel="stylesheet"></link>
-
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact:
-`abcd`
-
+`abcd` = text in a block/box
 <a> tag = hipertext
-<b> tag = bold
+<b> tag = bold text
 <div> tag = new section
-<code> tag = block of code
+<code> tag or tab = block of code
+<ins> tag = underline text
 -->
 
-# Hi, I'm Louise Pessoa!👾 
+# <center>Hi, I'm Louise Pessoa!👾</center>
 
 - 💡 Studying **Computer Science** at <a class="cesar" style="color: rgb(244, 117, 70);" href="https://www.cesar.school">Cesar School</a>
 - 🌱 First-year Bachelor'student, passionate about problem-solving, technology and management
@@ -35,7 +34,7 @@
     - StackOverflow
     - W3Schools
     - beecrowd
-
+    
 - Editors:
     - VSCode
     - ArduinoIDE
