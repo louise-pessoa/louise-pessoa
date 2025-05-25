@@ -11,7 +11,7 @@
 <ins> tag = underline text
 -->
 
-# <center>Hi, I'm Louise Pessoa!👾</center>
+# <div align=center>Hi, I'm Louise Pessoa!👾</div>
 
 - 💡 Studying **Computer Science** at <a class="cesar" style="color: rgb(244, 117, 70);" href="https://www.cesar.school">Cesar School</a>
 - 🌱 First-year Bachelor'student, passionate about problem-solving, technology and management
@@ -34,7 +34,7 @@
     - StackOverflow
     - W3Schools
     - beecrowd
-    
+
 - Editors:
     - VSCode
     - ArduinoIDE
