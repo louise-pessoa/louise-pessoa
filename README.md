@@ -14,9 +14,6 @@
 tab = block of code
 <code> tag or `text` = box of text
 <ins> tag = underline text
-
-<center><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="louisepessoaamds@gmail.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></center>
-
 -->
 
 # <div align=center>Hi, I'm Louise Pessoa!👾</div>
@@ -29,9 +26,7 @@ tab = block of code
 
 ### 📫 Contact me:
 
-<td align="center">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="louisepessoaamds@gmail.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</td>
+<center><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="louisepessoaamds@gmail.com"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></center>
 
 ## Currently learning
 - Python <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python icon" width="15">
