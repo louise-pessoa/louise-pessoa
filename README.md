@@ -2,11 +2,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact:
-### Platforms I use to study
-- Websites:
-    - StackOverflow
-    - W3Schools
-    - beecrowd
+
 `abcd` = text in a block/box
 <a> tag = hipertext
 <b> tag = bold text
@@ -15,6 +11,17 @@ tab = block of code
 <code> tag or `text` = box of text
 <ins> tag = underline text
 <p>&nbsp;</p> = linha em branco
+
+### Platforms I use to study
+- Websites:
+    - StackOverflow
+    - W3Schools
+    - beecrowd
+
+## Top skills
+- English <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_the_United_States.png/1200px-Flag_of_the_United_States.png" alt="USA flag icon" width="15">/<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png" alt="USA flag icon" width="15">
+- Python <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python icon" width="15">
+
 -->
 
 # <div align=center>Hi, I'm Louise Pessoa!👾</div>
@@ -39,16 +46,15 @@ tab = block of code
 - C++ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ icon" width="15">
 - Markdown <img src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" alt="Markdown icon" width="15">
 
-### *Extra miscellaneous learning
-
-- Japanese <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" alt="JavaScript icon" width="15">
+#### *Extra
+- Japanese <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" alt="Japanese flag icon" width="15">
 
 ## Interests
 - Cybersecurity🔐
 - Machine learning🤖
 - Game development🎮
 
-### *Extra miscellaneous interests
+#### *Extra
 - Movies🎬
 - Volleyball🏐
 - Hand crafts👐
