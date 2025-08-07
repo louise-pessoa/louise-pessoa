@@ -45,6 +45,8 @@ tab = block of code
 - HTML and CSS <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png" alt="HTML icon" width="15"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS icon" width="15">
 - C++ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ icon" width="15">
 - Markdown <img src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" alt="Markdown icon" width="15">
+- Django <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django icon" width="15">
+- Data Science <img src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt="Data Science icon" width="15>
 
 #### *Extra
 - Japanese <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" alt="Japanese flag icon" width="15">
@@ -57,12 +59,13 @@ tab = block of code
 #### *Extra
 - Movies🎬
 - Volleyball🏐
-- Hand crafts👐
+- Hand crafts (like chochet)👐
 
 ## My statistics
 
 [![louise-pessoa](https://github-readme-stats.vercel.app/api/top-langs/?username=louise-pessoa&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=louise-pessoa&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=louise-pessoa&theme=dark&date_format=j%20M%5B%20Y%5D&ring=dark&dates=dark&stroke=dark&border=dark)](https://git.io/streak-stats)
