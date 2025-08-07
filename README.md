@@ -46,7 +46,7 @@ tab = block of code
 - C++ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ icon" width="15">
 - Markdown <img src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" alt="Markdown icon" width="15">
 - Django <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django icon" width="15">
-- Data Science <img src="https://cdn-icons-png.flaticon.com/512/4824/4824797.png" alt="Data Science icon" width="15>
+- Data Science <img src="https://png.pngtree.com/png-clipart/20191120/original/pngtree-graph-icon-for-your-project-png-image_5049016.jpg" alt="graph icon" width="15">
 
 #### *Extra
 - Japanese <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" alt="Japanese flag icon" width="15">
@@ -69,3 +69,4 @@ tab = block of code
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=louise-pessoa&theme=dark&date_format=j%20M%5B%20Y%5D&ring=dark&dates=dark&stroke=dark&border=dark)](https://git.io/streak-stats)
+
