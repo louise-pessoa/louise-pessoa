@@ -66,7 +66,3 @@ tab = block of code
 [![louise-pessoa](https://github-readme-stats.vercel.app/api/top-langs/?username=louise-pessoa&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=louise-pessoa&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=louise-pessoa&theme=dark&date_format=j%20M%5B%20Y%5D&ring=dark&dates=dark&stroke=dark&border=dark)](https://git.io/streak-stats)
-
