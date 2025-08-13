@@ -17,11 +17,6 @@ tab = block of code
     - StackOverflow
     - W3Schools
     - beecrowd
-
-## Top skills
-- English <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_the_United_States.png/1200px-Flag_of_the_United_States.png" alt="USA flag icon" width="15">/<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png" alt="USA flag icon" width="15">
-- Python <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python icon" width="15">
-
 -->
 
 # <div align=center>Hi, I'm Louise Pessoa!👾</div>
@@ -40,26 +35,28 @@ tab = block of code
 </div>
 
 ## Currently learning
+<!--
 - Python <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python icon" width="15">
 - JavaScript <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript icon" width="15">
 - HTML and CSS <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png" alt="HTML icon" width="15"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS icon" width="15">
 - C++ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ icon" width="15">
 - Markdown <img src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" alt="Markdown icon" width="15">
+-->
 - Django <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django icon" width="15">
 - Data Science <img src="https://png.pngtree.com/png-clipart/20191120/original/pngtree-graph-icon-for-your-project-png-image_5049016.jpg" alt="graph icon" width="15">
-
-#### *Extra
 - Japanese <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" alt="Japanese flag icon" width="15">
+
+## Top skills
+- English <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_the_United_States.png/1200px-Flag_of_the_United_States.png" alt="USA flag icon" width="15">
+- Python <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python icon" width="15">
 
 ## Interests
 - Cybersecurity🔐
 - Machine learning🤖
 - Game development🎮
-
-#### *Extra
 - Movies🎬
 - Volleyball🏐
-- Hand crafts (like chochet)👐
+- Hand crafts👐
 
 ## My statistics
 
