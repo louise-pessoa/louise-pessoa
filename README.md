@@ -21,7 +21,7 @@ tab = block of code
 
 # <div align=center>Hi, I'm Louise Pessoa!👾</div>
 
-💡 First-year student of **Computer Science** at <a href="https://www.cesar.school">CESAR School</a>
+💡 Second semester student of **Computer Science** at <a href="https://www.cesar.school">CESAR School</a>
 
 🌱 Passionate about **problem-solving, technology and management**
 
@@ -63,3 +63,4 @@ tab = block of code
 [![louise-pessoa](https://github-readme-stats.vercel.app/api/top-langs/?username=louise-pessoa&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=louise-pessoa&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+
