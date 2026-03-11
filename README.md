@@ -40,10 +40,10 @@ tab = block of code
 - Projects Tutoring (CESAR School)
 
 ## Top Projects
-- [Claraboia Corp. (2025.2)]<a href="https://github.com/henriq-az/claraboiacorp">
-- [Backstage (2025.2)]<a href="https://github.com/LeoArgente/Backstage">
-- [Pula-Catraca (2025.2)]<a href="https://github.com/LuisGodoy123/Pula-Catraca">
-- [Busca Silenciosa (2025.1)]<a href="https://github.com/louise-pessoa/Busca-Silenciosa">
+- <a href="https://github.com/henriq-az/claraboiacorp">Claraboia Corp. (2025.2)
+- <a href="https://github.com/LeoArgente/Backstage">Backstage (2025.2)
+- <a href="https://github.com/LuisGodoy123/Pula-Catraca">Pula-Catraca (2025.2)
+- <a href="https://github.com/louise-pessoa/Busca-Silenciosa">Busca Silenciosa (2025.1)
 
 ## Top skills
 - English <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_the_United_States.png/1200px-Flag_of_the_United_States.png" alt="USA flag icon" width="15">
@@ -77,3 +77,4 @@ tab = block of code
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=louise-pessoa&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
 -->
+
