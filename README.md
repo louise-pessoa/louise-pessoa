@@ -21,7 +21,7 @@ tab = block of code
 
 # <div align=center>Hi, I'm Louise Pessoa!👾</div>
 
-💡 Second semester student of **Computer Science** at <a href="https://www.cesar.school">CESAR School</a>
+💡 Third semester student of **Computer Science** at <a href="https://www.cesar.school">CESAR School</a>
 
 🌱 Passionate about **problem-solving, technology and management**
 
@@ -35,31 +35,20 @@ tab = block of code
 </div>
 
 ## Currently working on
-- Django Web Project
-<!-- - 2D Game with C
--->
-- Digital Systems Tutoring (CESAR School)
-- Project Management, using SCRUM & KANBAN for separate teams (CESAR School - <a href="https://github.com/louise-pessoa/claraboiacorp">claraboia corp.</a>)
+- Java sustainability calculator (CESAR School)
+- Imperative & Functional Programming Tutoring (CESAR School)
+- Projects Tutoring (CESAR School)
 
-## Currently learning
-<!--
-- JavaScript <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript icon" width="15">
-- C++ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ icon" width="15">
-- Markdown <img src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" alt="Markdown icon" width="15">
--->
-- Python (OOP) <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python icon" width="15">
-- Django Framework <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django icon" width="15">
-- HTML and CSS <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-icone-de-linguagem-de-programacao-html.png" alt="HTML icon" width="15"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS icon" width="15">
-- C <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C language icon" width="15">
-- Project Management🗃️
-- Japanese <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" alt="Japanese flag icon" width="15">
-<!-- - Figma <img src="https://miro.medium.com/v2/resize:fit:1400/1*6XgfDCVn81AYX68Xvd2I-g@2x.png" alt="Figma icon" width="15">
-- AI Agents🤖
--->
+## Top Projects
+- [Claraboia Corp. (2025.2)]<a href="https://github.com/henriq-az/claraboiacorp">
+- [Backstage (2025.2)]<a href="https://github.com/LeoArgente/Backstage">
+- [Pula-Catraca (2025.2)]<a href="https://github.com/LuisGodoy123/Pula-Catraca">
+- [Busca Silenciosa (2025.1)]<a href="https://github.com/louise-pessoa/Busca-Silenciosa">
 
 ## Top skills
 - English <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_the_United_States.png/1200px-Flag_of_the_United_States.png" alt="USA flag icon" width="15">
 - Python <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python icon" width="15">
+- C <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C icon" width="15">
 - Project Management
 - People Management
   
@@ -67,10 +56,20 @@ tab = block of code
 - Cybersecurity🔐
 - Project Management🗃️
 - Machine learning🤖
-- Games & game development🎮
-- Movies🎬
-- Volleyball🏐
-- Hand crafts👐
+
+## Currently learning
+<!--
+- JavaScript <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript icon" width="15">
+- C++ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++ icon" width="15">
+- Markdown <img src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" alt="Markdown icon" width="15">
+- Python (OOP) <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python icon" width="15">
+- Django Framework <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django icon" width="15">
+- HTML e CSS
+-->
+- Java <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png" alt ="Java icon" width="15">
+- C <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C language icon" width="15">
+- Japanese <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png" alt="Japanese flag icon" width="15">
+- Operational Systems
 
 ## My statistics
 
@@ -78,4 +77,3 @@ tab = block of code
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=louise-pessoa&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
 -->
-
