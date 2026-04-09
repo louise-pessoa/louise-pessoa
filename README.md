@@ -2,14 +2,14 @@
 
 💡 Third semester student of **Computer Science** at <a href="https://www.cesar.school">CESAR School</a>
 
-🌱 Passionate about **problem-solving, technology and management**
+🎯 Focused on **software development, problem-solving and management**
 
 👀 Looking forward to collaborating on **creative, innovative and impactful** projects
 
 <div align='center'>
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louise-pessoa-)
-[![louisepessoaamds@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](louisepessoaamds@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=louisepessoaamds@gmail.com&su=Contato%20pelo%20GitHub&body=Oi,%20vim%20pelo%20seu%20GitHub!)
 </div>
 
 ## Top Projects
@@ -28,9 +28,9 @@
 - Portuguese-BR (Native)
 
 ## Currently working on
-- Java sustainability calculator (Project) - CESAR School
-- Imperative & Functional Programming Tutoring - CESAR School
-- Project & People Management Tutoring - CESAR School
+- Project: Java sustainability calculator for [Edenred](https://www.edenred.com/en) - CESAR School
+- Tutoring: Imperative & Functional Programming (C) - CESAR School
+- Tutoring: Project & People Management - CESAR School
 
 ## Currently learning
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
