@@ -1,8 +1,8 @@
 # <div align=center>Hi, I'm Louise Pessoa!👾</div>
 
-💡 Third semester student of **Computer Science** at <a href="https://www.cesar.school">CESAR School</a>
+💡 Fourth semester student of **Computer Science** at <a href="https://www.cesar.school">CESAR School</a>
 
-🎯 Focused on **software development, problem-solving and management**
+🎯 Focused on **software development, security, problem-solving and management**
 
 👀 Looking forward to collaborating on **creative, innovative and impactful** projects
 
@@ -34,15 +34,15 @@
 - Portuguese-BR (Native)
 
 ## Currently working on
-- Project: Java sustainability calculator for [Edenred](https://www.edenred.com/en) - CESAR School
-- Tutoring: Imperative & Functional Programming (C) - CESAR School
-- Tutoring: Project & People Management - CESAR School
+- Embaixadores Estudantis Google 2026: Google program in Brazil, from August to December of 2026
+- The SWITAB Project (Supporting Women In Technology Across Borders): acting as Leader of Project Management and Mentor
+- Creating a Startup focused on Intectual Property management
 
 ## Currently learning
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white"/> <img src="https://img.shields.io/badge/Cybersecurity-brightblue?style=flat-square"/>
 - Japanese (Beginner A2)
 
 ## Interests
 - Cybersecurity
-- Project Management
 - Machine learning
+- Project Management
